@@ -60,3 +60,13 @@ Navigating files and folders on your computer is a skill you should hone. Here a
   
 * [MacMost's Intro to the Finder](https://www.youtube.com/watch?v=TY_ViHj4gFU)
 * [MacMost's Intro to TextEdit](https://www.youtube.com/watch?v=73dhmeJx6Lk) Learn how to edit plain text files with TextEdit on a Mac.
+
+## Advanced topics: The Command Line
+
+The terminal, command prompt, or shell are names for the text-only interface to your computer. It can accomplish anything you can with Windows Explorer or with Mac Finder, and more. We will learn more about the command line as the course progresses, but you can have a peek at it with these resources.
+
+* [Guide to insalling Bash on Windows](https://www.youtube.com/watch?v=cweFdzKMeS0)
+* [Windows Git Bash Tutorial](https://www.youtube.com/watch?v=RBCq2mrXsMk)
+* [Using the Terminal on Mac](https://www.youtube.com/watch?v=aKRYQsKR46I)
+* [Command Line Introduction ](https://launchschool.com/books/command_line/read/introduction)
+* [Introduction to Bash by Microsoft](https://learn.microsoft.com/en-us/training/modules/bash-introduction/)
