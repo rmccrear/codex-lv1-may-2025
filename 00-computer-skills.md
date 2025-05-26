@@ -7,6 +7,23 @@ Becoming a touch typist is an essential skill in our modern world. Here are a fe
 * [Typing Club](https://www.typingclub.com/)
 * [keybr](https://www.keybr.com/)
 
+### Important Keys in Coding
+
+| Character | Name & Use (HTML/CSS Examples)                                               |
+| --------- | ---------------------------------------------------------------------------- |
+| `<`       | **[Less than](https://www.edclub.com/sportal/program-3/451.play)** — starts HTML tags (`<div>`, `<p>`)                            |
+| `>`       | **[Greater than](https://www.edclub.com/sportal/program-3/451.play)** — ends HTML tags (`</div>`, `<p>` closes)                   |
+| `/`       | **[Slash](https://www.edclub.com/sportal/program-3/179.play)** — closes HTML tags (`</h1>`), used in self-closing tags (`<br />`) |
+| `&`       | **[Ampersand](https://www.edclub.com/sportal/program-3/389.play)** — writes HTML entities (`&amp;` for `&`, `&lt;` for `<`)       |
+| `"`       | **[Double quote](https://www.edclub.com/sportal/program-3/433.play)** — wraps HTML attribute values (`<a href="link.html">`)      |
+| `'`       | **[Single quote](https://www.edclub.com/sportal/program-3/433.play)** — alternative in attributes (`<a href='link.html'>`)        |
+| `{` `}`   | **[Curly braces](https://www.edclub.com/sportal/program-3/445.play)** — wrap CSS rule blocks (`h1 { color: red; }`)               |
+| `:`       | **[Colon](https://www.edclub.com/sportal/program-3/236.play)** — separates CSS property and value (`color: blue;`)                |
+| `;`       | **[Semicolon](https://www.edclub.com/sportal/program-3/127.play)** — ends CSS declarations (`font-size: 16px;`)                   |
+| `(` `)`   | **[Parentheses](https://www.edclub.com/sportal/program-3/374.play)** — used in CSS functions (`background: url('image.jpg')`)     |
+| `[` `]`   | **[Angle brackets](https://www.edclub.com/sportal/program-3/442.play)** - using in JavaScript for arrays (`names[0]`)
+
+
 ## Hotkeys
 
 Hotkeys or "Shortcuts" are key combinations that help you get things done quickly on your keyboard. Try them out and see which are your favorites.
