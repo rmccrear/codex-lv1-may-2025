@@ -32,6 +32,8 @@ Hotkeys or "Shortcuts" are key combinations that help you get things done quickl
 
 * [Lea David's Shortcuts to save you time](https://www.youtube.com/watch?v=qoUmZ-buqr8)
 * [Brett in Tech's guide to 20 shortcuts](https://www.youtube.com/watch?v=6C8vkVomRTo)
+* [Another 20 Keyboard shortcuts](https://www.youtube.com/watch?v=RQaTIS85VKE)
+* [Apple Mac Hotkeys](https://www.youtube.com/watch?v=jAyd89j0B58)
 
 ### Windows Keyboard Shortcuts
 
@@ -71,15 +73,20 @@ Hotkeys or "Shortcuts" are key combinations that help you get things done quickl
 
 Navigating files and folders on your computer is a skill you should hone. Here are a few resources to teach yourself how to navigate Windows Explorer and Mac's Finder.
 
-### Windows
+* Windows: [Navigating Files with Windows Explorer ](https://www.youtube.com/watch?v=-ixXAB2Gc0M)  
+* Mac: [MacMost's Intro to the Finder](https://www.youtube.com/watch?v=TY_ViHj4gFU)
 
-* [Navigating Files with Windows Explorer ](https://www.youtube.com/watch?v=-ixXAB2Gc0M)
+## Text Editors
+
+### Notepad on Windows
+
 * [Using Notepad to open and edit text files](https://www.youtube.com/watch?v=vdsHgK6wFA4&list=PL_dhPga7ruufQbp8l2cm-L8XYsHmTmzyB) Text files are important for coders. All the files we edit, txt, html, css, and so on are text files. We will use text editors like notepad and others to edit text on our computers so we don't need to rely on code.org's Web Lab.
+* [How to edit HTML on Windows notepad](https://www.youtube.com/watch?v=XlOTHPBK2FY)
 
-### Mac
-  
-* [MacMost's Intro to the Finder](https://www.youtube.com/watch?v=TY_ViHj4gFU)
+### TextEdit on Mac
+
 * [MacMost's Intro to TextEdit](https://www.youtube.com/watch?v=73dhmeJx6Lk) Learn how to edit plain text files with TextEdit on a Mac.
+* [How to edit HTML on Mac with TextEdit](https://www.youtube.com/watch?v=vrV2YIyYLOs)
 
 ## Advanced topics: The Command Line
 
