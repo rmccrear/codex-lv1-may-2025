@@ -87,6 +87,7 @@ Navigating files and folders on your computer is a skill you should hone. Here a
 
 * [MacMost's Intro to TextEdit](https://www.youtube.com/watch?v=73dhmeJx6Lk) Learn how to edit plain text files with TextEdit on a Mac.
 * [How to edit HTML on Mac with TextEdit](https://www.youtube.com/watch?v=vrV2YIyYLOs)
+* [Quick Guide to saving in HTML with TextEdit](https://docs.google.com/document/d/1--e-5E4Cp0fNIhBGxh7XVUXu-u8lHXDqvpVcPWm-uG0/edit?usp=sharing)
 
 ## Advanced topics: The Command Line
 
