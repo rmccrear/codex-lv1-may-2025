@@ -21,7 +21,7 @@ Becoming a touch typist is an essential skill in our modern world. Here are a fe
 | `:`       | **[Colon](https://www.edclub.com/sportal/program-3/236.play)** — separates CSS property and value (`color: blue;`)                |
 | `;`       | **[Semicolon](https://www.edclub.com/sportal/program-3/127.play)** — ends CSS declarations (`font-size: 16px;`)                   |
 | `(` `)`   | **[Parentheses](https://www.edclub.com/sportal/program-3/374.play)** — used in CSS functions (`background: url('image.jpg')`)     |
-| `[` `]`   | **[Angle brackets](https://www.edclub.com/sportal/program-3/442.play)** - using in JavaScript for arrays (`names[0]`)
+| `[` `]`   | **[Square brackets](https://www.edclub.com/sportal/program-3/442.play)** - using in JavaScript for arrays (`names[0]`)
 
 
 ## Hotkeys
