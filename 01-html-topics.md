@@ -7,3 +7,7 @@ This page contains links to sites that will help you explore HTML and learn more
 * [W3 Schools](https://www.w3schools.com/html/): The full references for HTML
 * Dave Gray's YouTube Playlist for [HTML](https://www.youtube.com/watch?v=P0EGYTb1cBs&list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu)
 * [Learn Web Inspector and other Dev Tools](https://developer.chrome.com/docs/devtools/) in Google Chrome
+
+## Images
+
+* [Image format guide](https://www.adobe.com/acrobat/hub/guide-to-image-file-formats.html)
