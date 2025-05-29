@@ -23,6 +23,7 @@ Becoming a touch typist is an essential skill in our modern world. Here are a fe
 | `(` `)`   | **[Parentheses](https://www.edclub.com/sportal/program-3/374.play)** — used in CSS functions (`background: url('image.jpg')`)     |
 | `[` `]`   | **[Square brackets](https://www.edclub.com/sportal/program-3/442.play)** - using in JavaScript for arrays (`names[0]`)
 
+![Keyboard with coding keys](./keyboard-coding-keys.jpg)
 
 ## Hotkeys
 
