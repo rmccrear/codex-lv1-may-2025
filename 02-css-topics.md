@@ -13,3 +13,4 @@
 ## Challenges
 
 1. [W3 Schools CSS Cards](https://www.w3schools.com/howto/howto_css_cards.asp) - Build a card component with CSS. If you can master this, try and use more specific CSS Selectors to apply styles only to children of the card Element.
+2. Try using icons with [Font Awesome 4](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)!
