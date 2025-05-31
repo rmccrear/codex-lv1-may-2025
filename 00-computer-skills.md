@@ -34,6 +34,7 @@ Hotkeys or "Shortcuts" are key combinations that help you get things done quickl
 * [Lea David's Shortcuts to save you time](https://www.youtube.com/watch?v=qoUmZ-buqr8)
 * [Brett in Tech's guide to 20 shortcuts](https://www.youtube.com/watch?v=6C8vkVomRTo)
 * [Another 20 Keyboard shortcuts](https://www.youtube.com/watch?v=RQaTIS85VKE)
+* [Windows shortcuts for moving between windows and screenshots](https://www.youtube.com/watch?v=d_rH4uAm9MY)
 * [Apple Mac Hotkeys](https://www.youtube.com/watch?v=jAyd89j0B58)
 
 ### Windows Keyboard Shortcuts
