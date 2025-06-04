@@ -71,6 +71,10 @@ Hotkeys or "Shortcuts" are key combinations that help you get things done quickl
 * [Microsoft's shortcut reference](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)
 * [Apple's hotkey reference](https://support.apple.com/en-us/102650)
 
+### Chromebook hotkeys
+
+* [Chromebook hotkeys](https://support.google.com/chromebook/answer/183101?hl=en)
+
 ## File System Guides
 
 Navigating files and folders on your computer is a skill you should hone. Here are a few resources to teach yourself how to navigate Windows Explorer and Mac's Finder.
