@@ -5,6 +5,9 @@
 1. [W3 Schools CSS](https://www.w3schools.com/css/) - The main reference for CSS you will need. This contains almost every property and use case of CSS in one convenient place.
 2. [Dave Gray's CSS Playlist](https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit) - Dave Gray (a great YouTuber for learning Web Dev) has a complete course on CSS.
 3. [Anatomy of a CSS Rule-Set](https://quizlet.com/842530333/anatomy-of-a-css-rule-set-diagram/?i=3p787&x=1jqt)
+4. [Float property on an image](https://youtu.be/MiBczyAmzE0)
+5. [Learn CSS Flexbox in 20 minutes](https://youtu.be/wsTv9y931o8)
+6. [CSS Box Sizing](https://youtu.be/ZL0F_8_Pb7U)
 
 ## Games
 
