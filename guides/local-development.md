@@ -2,7 +2,7 @@
 
 ### 🎯 Purpose & Goal
 
-🎯 This guide will help you understand how to **download, edit, and preview your HTML and CSS files locally**—on your own computer—without relying on online tools like Code.org.
+This guide will help you understand how to **download, edit, and preview your HTML and CSS files locally**—on your own computer—without relying on online tools like Code.org.
 
 By the end of this guide, you will be able to:
 
