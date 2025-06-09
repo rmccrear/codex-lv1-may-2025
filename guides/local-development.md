@@ -55,12 +55,14 @@ This is why you need to know how to develop code locally as well as online.
 
 ## Set Up for Local Development
 
+Set yourself up for local development so that your are just as efficient locally as your are remotely. You will have to tile your windows to mimic the setup on code.org. This way you can see the both code and the rendered page at the same time.
+
 **Do This:**
 1. Tile your code editor (Notepad, TextEdit, etc.) to the left side of your screen.
-2. Tile your web browser to the right.
     - [How to Arrange Windows and Multitask in Windows 11](https://www.microsoft.com/en-us/windows/getstarted)
     - [How to use window tiling on Mac (Apple Support)](https://support.apple.com/en-us/102575)
     - [How to tile windows on Chromebook](https://support.google.com/chromebook/answer/9577383)
+2. Tile your web browser to the right.
 3. Make changes in your code and save them (Tip use: **Ctrl+S** or **Cmd+S**).
 4. Reload your browser to see your updates. (Tip use: **Ctrl+R** or **Cmd+R**).
 
