@@ -53,10 +53,11 @@ This is why you need to know how to develop code locally as well as online.
 **Do This:**
 1. Right-click `index.html` and select **Open with…**
 2. Choose **Notepad** (Windows), **TextEdit** (Mac), or **Text** (Chromebook).
-3. Your HTML code will open, just as it appeared on code.org.
-4. Make a change (for example, update a `<h1>` tag).
-5. Save the file. (Tip: Use a hotkey to save: **Ctrl+S** or **Cmd+S**)
-6. Refresh the page in your browser to see your update. (Tip: use a hotkey to reload: **Ctrl+R** or **Cmd+R**)
+   * On Mac, you may have trouble viewing the code in TextEdit. If so, see [this guide](https://docs.google.com/document/d/1--e-5E4Cp0fNIhBGxh7XVUXu-u8lHXDqvpVcPWm-uG0/edit?usp=sharing).
+4. Your HTML code will open, just as it appeared on code.org.
+5. Make a change (for example, update a `<h1>` tag).
+6. Save the file. (Tip: Use a hotkey to save: **Ctrl+S** or **Cmd+S**)
+7. Refresh the page in your browser to see your update. (Tip: use a hotkey to reload: **Ctrl+R** or **Cmd+R**)
 
 ---
 
