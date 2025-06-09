@@ -1,57 +1,78 @@
-# Guide to developing HTML\&CSS on your local filesystem.
+# Guide to Developing HTML & CSS on Your Local Filesystem
 
-**What is a filesystem?** A filesystem is system that stores files for you. These can be any sort of file: image files like PNG JPEG or GIF. They can be proprietary formats like DOCX XLS or PSD. They can be web formats like HTML CSS or JS.
+## What is a Filesystem?
 
-**What is a local filesystem?** A local filesystem is a filesystem that lives on your computer. The bits and bytes are actually on the hard drive sitting next to you. This contrasts with a remote filesystem where the bits and bytes are stored in a data center. The files on [code.org](http://code.org) are considered “remote” because they are are stored in an online web application called Web Lab. The difference between remote and local can blur. For example, you may have a OneDrive subscription which syncs your local files to a remote datacenter. In this case the files would be both remote and local because they are stored on both your local hard drive and in the remote datacenter with OneDrive.
+A **filesystem** is how your computer stores all types of files—images (PNG, JPEG, GIF), documents (DOCX, XLS, PSD), or web files (HTML, CSS, JS).
 
-**Why develop locally?** So far, we have been writing code on [code.org](http://code.org). This has pros and cons. It is easy to get started with [code.org](http://code.org), it organizes our projects for us, and, our files are easy to share since they are already on the Internet. But what if the Internet goes down? What is [code.org](http://code.org) is slow? What if we want custumizaitons beyond what [code.org](http://code.org) allows? For this we need to download the files to our computer and edit our code locally. In our class and in your career you will need to develop locally and remotely, depending on the circumstances. Let’s learn one way to develop code locally.
+## What is a Local Filesystem?
 
-## Download a file from Web Lab
+A **local filesystem** is the storage physically located on your own computer (your hard drive). This is different from a **remote filesystem**, where files are stored online in a data center or cloud service. For example:
+- Files on code.org are **remote**—stored online.
+- Files synced with OneDrive can be both **local and remote** (on your device and in the cloud).
 
-Let’s start by downloading the HTML files we created on [code.org](http://code.org).
+## Why Develop Locally?
 
-**Do this:**
+Code.org makes starting projects easy; your work is organized and shareable. But:
+- What if the Internet goes down?
+- What if code.org is slow?
+- What if you need customizations code.org doesn’t offer?
 
-1. Open your Project in Web Lab on [code.org](http://code.org).  
-2. Click the dropdown button on index.html and download the file.  
-3. Find the downloaded file and double click on it.   
-4. View it in your browser, it should show your HTML but no CSS or images.
+This is why you need to know how to develop code locally as well as online.
 
-**Show me:**
+---
 
-## Download your full project
+## Download a File from Web Lab
 
-Now let’s download the rest of your project.
+**Do This:**
+1. Open your project in Web Lab on code.org.
+2. Click the dropdown arrow next to `index.html` and select **Download**.
+3. Find the downloaded file on your computer.
+4. Double-click it to open in your web browser. (You should see your HTML, but CSS or images may be missing.)
 
-**Do this:**
+---
 
-1. Create a new folder in your Documents folder to contain all your HTML, CSS, and image files.   
-2. Download all the files from your project into this folder.  
-3. Make sure you have downloaded all the files and they are all in the same folder.  
-4. Double click on the index.html file and view it in your browser. You should see your complete website.
+## Download Your Full Project
 
-## Update files locally
+**Do This:**
+1. Create a new folder in your **Documents** directory for your website files.
+2. Download all HTML, CSS, and image files from your project into this folder.
+3. Make sure all files are in the same folder.
+4. Double-click `index.html` to view your complete website in your browser.
 
-Now let’s try and update the HTML files locally.
+---
 
-**Do this:**
+## Update Files Locally
 
-1. Right click on your index.html file.  
-2. Select Open with…  
-3. Select Notepad on Windows and TextEdit on Mac. (Text on Chromebook.)  
-4. You should see your HTML code just as you did on [code.org](http://code.org).  
-5. Try to make a change to one of your H1 tags.  
-6. Save the file.  
-7. Reload the file in your browser to see your updates.
+**Do This:**
+1. Right-click `index.html` and select **Open with…**
+2. Choose **Notepad** (Windows), **TextEdit** (Mac), or **Text** (Chromebook).
+3. Your HTML code will open, just as it appeared on code.org.
+4. Make a change (for example, update a `<h1>` tag).
+5. Save the file. (Tip: Use a hotkey to save: **Ctrl+S** or **Cmd+S**)
+6. Refresh the page in your browser to see your update. (Tip: use a hotkey to reload: **Ctrl+R** or **Cmd+R**)
 
-## Set up local development
+---
 
-Set yourself up for local development, so that your are just as efficient locally as your are remotely. You will have to tile your windows to mimic the setup on [code.org](http://code.org). If you have never “tiled” windows, see the link to a video here: (windows: [How to Arrange Windows and Multitask in Windows 11](https://youtu.be/iw8ExQKWwrk?feature=shared&t=92)) (mac: [How to use window tiling on Mac | Apple Support](https://www.youtube.com/watch?v=U3KAmUYkkVc)) (chromebook [Chromebook: Tiling two horizontal screens](https://www.youtube.com/watch?v=t9tM5w7txC4))
+## Set Up for Local Development
 
-**Do this:**
+**Do This:**
+1. Tile your code editor (Notepad, TextEdit, etc.) to the left side of your screen.
+2. Tile your web browser to the right.
+    - [How to Arrange Windows and Multitask in Windows 11](https://www.microsoft.com/en-us/windows/getstarted)
+    - [How to use window tiling on Mac (Apple Support)](https://support.apple.com/en-us/102575)
+    - [How to tile windows on Chromebook](https://support.google.com/chromebook/answer/9577383)
+3. Make changes in your code and save them (Tip use: **Ctrl+S** or **Cmd+S**).
+4. Reload your browser to see your updates. (Tip use: **Ctrl+R** or **Cmd+R**).
 
-1. Tile your Notepad or TextEdit application to the left.  
-2. Tile your web browser to the right.  
-3. Make a change in your code and save it with a hotkey (CTRL S).  
-4. Reload the page in your broswer.  
-5. Check that the changes have been made.
+---
+
+## Become a Poweruser
+
+Ready to be more productive? Use a professional code editor for programming—they offer color coding, better search, and productivity features.
+
+**Do This:**
+1. Download and install a free advanced text editor:  
+    - **Windows**: [Notepad++](https://notepad-plus-plus.org/downloads/)
+    - **Mac**: [BBEdit](https://www.barebones.com/products/bbedit/download.html)
+2. Open your project files with your new editor.
+3. Explore features like syntax highlighting and tabs that make development faster and easier.
