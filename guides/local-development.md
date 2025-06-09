@@ -33,7 +33,7 @@ This is why you need to know how to develop code locally as well as online.
 <details>
   <summary>Click to see how...</summary>
   
-  ![how to download from code org](./download-file-from-code-org.gif)
+  ![how to download from code org](./download-file-from-web-lab.gif)
 </details>
 
 ---
