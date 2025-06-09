@@ -75,6 +75,10 @@ Hotkeys or "Shortcuts" are key combinations that help you get things done quickl
 
 * [Chromebook hotkeys](https://support.google.com/chromebook/answer/183101?hl=en)
 
+### Switching Tasks
+
+* [Guide to task switching](./computer-skills/switching-tasks.md)
+
 ## File System Guides
 
 Navigating files and folders on your computer is a skill you should hone. Here are a few resources to teach yourself how to navigate Windows Explorer and Mac's Finder.
