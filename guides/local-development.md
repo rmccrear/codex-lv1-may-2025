@@ -29,6 +29,13 @@ This is why you need to know how to develop code locally as well as online.
 3. Find the downloaded file on your computer.
 4. Double-click it to open in your web browser. (You should see your HTML, but CSS or images may be missing.)
 
+**Show Me:**
+<details>
+  <summary>Click to see how...</summary>
+  
+  ![how to download from code org](./download-file-from-code-org.gif)
+</details>
+
 ---
 
 ## Download Your Full Project
