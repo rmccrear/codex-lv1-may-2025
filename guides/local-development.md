@@ -1,5 +1,17 @@
 # Guide to Developing HTML & CSS on Your Local Filesystem
 
+### 🎯 Purpose & Goal
+
+This guide will help you understand how to **download, edit, and preview your HTML and CSS files locally**—on your own computer—without relying on online tools like Code.org.
+By the end of this guide, you will be able to:
+
+* Work with your own files using your computer's filesystem
+* Edit code using basic or advanced text editors
+* Preview your website offline in a browser
+* Set up your screen to work efficiently like you do in Web Lab
+
+This is a key skill for future web development work, coding bootcamps, or personal projects.
+
 ### What is a filesystem?
 
 A **filesystem** is the way your computer (or another device) organizes and stores files. These files can be any type—images like PNG, JPEG, or GIF; proprietary formats like DOCX, XLS, or PSD; or web development files like HTML, CSS, or JS.
