@@ -2,7 +2,8 @@
 
 ### 🎯 Purpose & Goal
 
-This guide will help you understand how to **download, edit, and preview your HTML and CSS files locally**—on your own computer—without relying on online tools like Code.org.
+🎯 This guide will help you understand how to **download, edit, and preview your HTML and CSS files locally**—on your own computer—without relying on online tools like Code.org.
+
 By the end of this guide, you will be able to:
 
 * Work with your own files using your computer's filesystem
@@ -39,6 +40,8 @@ Let’s explore how to develop your code locally!
 
 ## Step 1: Download a File from Web Lab
 
+🧭 Start by grabbing a single file—your index.html—from Web Lab. This will give you something simple to open and view on your computer.
+
 **Do This:**
 1. Open your project in Web Lab on code.org.
 2. Click the dropdown arrow next to `index.html` and select **Download**.
@@ -56,6 +59,8 @@ Let’s explore how to develop your code locally!
 
 ## Step 2: Download Your Full Project
 
+📁 Now let’s get your full project set up on your computer. You’ll collect all your files and organize them into one folder on your machine.
+
 **Do This:**
 1. Create a new folder in your **Documents** directory for your website files.
 2. Download all HTML, CSS, and image files from your project into this folder.
@@ -65,6 +70,10 @@ Let’s explore how to develop your code locally!
 ---
 
 ## Step 3: Update Files Locally
+
+✍️ Let’s make your first code change using a text editor! This is where you’ll open and edit your files.
+
+To edit your HTML and CSS files, you will need a program on your computer called a text editor. A text editor is a simple program used to write and edit plain text—like your HTML and CSS code. Unlike word processors (like Microsoft Word), text editors don’t add hidden formatting or styles. This is important because your code must stay clean and precise for it to work properly.
 
 **Do This:**
 1. Right-click `index.html` and select **Open with…**
@@ -79,7 +88,7 @@ Let’s explore how to develop your code locally!
 
 ## Step 4: Set Up for Local Development
 
-Set yourself up for local development so that your are just as efficient locally as your are remotely. You will have to tile your windows to mimic the setup on code.org. This way you can see the both code and the rendered page at the same time.
+🖥️ To work efficiently, you’ll want to set up your screen so you can see your code and the browser at the same time—just like in Web Lab.
 
 **Do This:**
 1. Tile your code editor (Notepad, TextEdit, etc.) to the left side of your screen.
@@ -94,7 +103,7 @@ Set yourself up for local development so that your are just as efficient locally
 
 ## Step 5: Become a Poweruser
 
-Ready to be more productive? Use a professional code editor for programming—they offer color coding, better search, and productivity features.
+🚀 Once you’re comfortable editing code, upgrade to a text editor designed espicially for coding. These tools make coding faster and more enjoyable with features like syntax highlighting and tabs.
 
 **Do This:**
 1. Download and install a free advanced text editor. Here are two options.  
