@@ -1,27 +1,31 @@
 # Guide to Developing HTML & CSS on Your Local Filesystem
 
-## What is a Filesystem?
+### What is a filesystem?
 
-A **filesystem** is how your computer stores all types of files—images (PNG, JPEG, GIF), documents (DOCX, XLS, PSD), or web files (HTML, CSS, JS).
+A **filesystem** is the way your computer (or another device) organizes and stores files. These files can be any type—images like PNG, JPEG, or GIF; proprietary formats like DOCX, XLS, or PSD; or web development files like HTML, CSS, or JS.
 
-## What is a Local Filesystem?
+#### What is a local filesystem?
 
-A **local filesystem** is the storage physically located on your own computer (your hard drive). This is different from a **remote filesystem**, where files are stored online in a data center or cloud service. For example:
-- Files on code.org are **remote**—stored online.
-- Files synced with OneDrive can be both **local and remote** (on your device and in the cloud).
+A **local filesystem** refers to files that are stored directly on your own computer’s hard drive. This means the actual data is right there, physically in your device.
 
-## Why Develop Locally?
+By contrast, a **remote filesystem** stores files somewhere else—usually in a data center, accessed over the internet. For example, the files you use on code.org's Web Lab are stored online, making them part of a remote system. So, when you save a file in Web Lab, you’re saving it to code.org’s servers, not your own computer.
 
-Code.org makes starting projects easy; your work is organized and shareable. But:
-- What if the Internet goes down?
-- What if code.org is slow?
-- What if you need customizations code.org doesn’t offer?
+Sometimes, files can be both local and remote. If you use a service like OneDrive or Google Drive, your files may be saved on your own device (local), but also backed up or synced online (remote).
 
-This is why you need to know how to develop code locally as well as online.
+#### Why develop locally?
 
----
+So far, you’ve been writing code in Web Lab on code.org. This has its benefits: It’s easy to get started, projects are organized for you, and files are simple to share online.
 
-## Download a File from Web Lab
+However, there are limitations:
+- What happens if you lose internet access?
+- What if code.org is slow or unavailable?
+- What if you want to make customizations or use tools that aren’t supported by Web Lab?
+
+In these cases, you need to work with files on your **local filesystem**. Learning how to download your work from Web Lab and edit it locally is an essential skill for both your class and your future career. Many developers work both locally and remotely, depending on the project and their needs.
+
+Let’s explore how to develop your code locally!
+
+## Step 1: Download a File from Web Lab
 
 **Do This:**
 1. Open your project in Web Lab on code.org.
@@ -38,7 +42,7 @@ This is why you need to know how to develop code locally as well as online.
 
 ---
 
-## Download Your Full Project
+## Step 2: Download Your Full Project
 
 **Do This:**
 1. Create a new folder in your **Documents** directory for your website files.
@@ -48,7 +52,7 @@ This is why you need to know how to develop code locally as well as online.
 
 ---
 
-## Update Files Locally
+## Step 3: Update Files Locally
 
 **Do This:**
 1. Right-click `index.html` and select **Open with…**
@@ -61,7 +65,7 @@ This is why you need to know how to develop code locally as well as online.
 
 ---
 
-## Set Up for Local Development
+## Step 4: Set Up for Local Development
 
 Set yourself up for local development so that your are just as efficient locally as your are remotely. You will have to tile your windows to mimic the setup on code.org. This way you can see the both code and the rendered page at the same time.
 
@@ -76,12 +80,12 @@ Set yourself up for local development so that your are just as efficient locally
 
 ---
 
-## Become a Poweruser
+## Step 5: Become a Poweruser
 
 Ready to be more productive? Use a professional code editor for programming—they offer color coding, better search, and productivity features.
 
 **Do This:**
-1. Download and install a free advanced text editor:  
+1. Download and install a free advanced text editor. Here are two options.  
     - **Windows**: [Notepad++](https://notepad-plus-plus.org/downloads/)
     - **Mac**: [BBEdit](https://www.barebones.com/products/bbedit/download.html)
 2. Open your project files with your new editor.
