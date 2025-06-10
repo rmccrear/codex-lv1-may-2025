@@ -99,6 +99,12 @@ Navigating files and folders on your computer is a skill you should hone. Here a
 * [How to edit HTML on Mac with TextEdit](https://www.youtube.com/watch?v=vrV2YIyYLOs)
 * [Quick Guide to saving in HTML with TextEdit](https://docs.google.com/document/d/1--e-5E4Cp0fNIhBGxh7XVUXu-u8lHXDqvpVcPWm-uG0/edit?usp=sharing)
 
+## Editing Photos and Pictures
+
+* [Editing Photos on Windows 11](https://support.microsoft.com/en-us/windows/edit-photos-and-videos-in-windows-a3a6e711-1b70-250a-93fa-ef99048a2c86)
+* [Editing Photos on Mac with Preview](https://www.youtube.com/watch?v=HF-nJiDKmN8)
+* [Editing Photos on Chromebooks](https://www.google.com/chromebook/howto/open-and-edit-photos/)
+
 ## Advanced topics: The Command Line
 
 The terminal, command prompt, or shell are names for the text-only interface to your computer. It can accomplish anything you can with Windows Explorer or with Mac Finder, and more. We will learn more about the command line as the course progresses, but you can have a peek at it with these resources.
