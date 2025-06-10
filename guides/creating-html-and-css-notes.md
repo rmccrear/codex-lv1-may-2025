@@ -105,6 +105,11 @@ Use either:
 
 Recreate the same sections, but this time using real HTML and CSS files to build your own guide.
 
+Consider using:
+
+* ...[PRE tags](https://www.w3schools.com/tags/tag_pre.asp) and [CODE tags](https://www.w3schools.com/tags/tag_code.asp) for your code examples
+* ...[HTML Enities](https://www.w3schools.com/html/html_entities.asp) for HTML code examples that need angle brackets.
+
 ---
 
 ### 💡 Tips:
