@@ -27,7 +27,8 @@ If you have two tabs next to each other, you can use hotkeys to switch between t
 2. Hold CTRL and press TAB to change tabs  
 3. Hold CTRL+SHIFT and press TAB to switch back.
 
-Video: [https://www.youtube.com/shorts/rEoyIE-YCAY](https://www.youtube.com/shorts/rEoyIE-YCAY)	
+Short Video: [https://www.youtube.com/shorts/rEoyIE-YCAY](https://www.youtube.com/shorts/rEoyIE-YCAY)	
+Longer Video: [https://www.youtube.com/watch?v=qoUmZ-buqr8](https://www.youtube.com/watch?v=qoUmZ-buqr8)
 
 # Switching Applications
 
