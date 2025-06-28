@@ -104,6 +104,7 @@ Navigating files and folders on your computer is a skill you should hone. Here a
 * [Editing Photos on Windows 11](https://support.microsoft.com/en-us/windows/edit-photos-and-videos-in-windows-a3a6e711-1b70-250a-93fa-ef99048a2c86)
 * [Editing Photos on Mac with Preview](https://www.youtube.com/watch?v=HF-nJiDKmN8)
 * [Editing Photos on Chromebooks](https://www.google.com/chromebook/howto/open-and-edit-photos/)
+* More Guides to [Creative Apps](./computer-skills/creative.md)
 
 ## Advanced topics: The Command Line
 
