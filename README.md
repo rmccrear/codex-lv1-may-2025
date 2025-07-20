@@ -5,6 +5,7 @@ This Repo contains documentation and tutorials you can browse if you want to gro
 * [Computer Skills](00-computer-skills.md) - background skills like typing, file management, and so on...
 * [HTML Topics](./01-html-topics.md) - more details from topics covered in Week 1
 * [CSS Topics](./02-css-topics.md) - more details from topics covered in Week 2
+* [Computing Concepts](./03-computing-concepts.md) - Key concepts for basic JavaScript/Blocky programming
 
 
 ## Books
