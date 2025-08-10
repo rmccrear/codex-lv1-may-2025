@@ -2,7 +2,12 @@
 
 ## Paint Tools
 
-### MS Paint
+### Pixlr (Web based)
+
+* [Online Paint Tool--No install needed.](https://pixlr.com/)
+* [PIXLR Tutorial - Designed for Beginners](https://www.youtube.com/watch?v=2xOCi_I5_Jc)
+
+### MS Paint (Windows)
 
 MS Paint comes pre-installed on all Windows computers and is free to use. It follows familiar design patterns and interface idioms found in many drawing programs—from Game Lab’s Animation Tab to professional tools like Adobe Illustrator and Inkscape.
 
