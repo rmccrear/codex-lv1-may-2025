@@ -106,6 +106,12 @@ Navigating files and folders on your computer is a skill you should hone. Here a
 * [Editing Photos on Chromebooks](https://www.google.com/chromebook/howto/open-and-edit-photos/)
 * More Guides to [Creative Apps](./computer-skills/creative.md)
 
+## Screenshots
+
+* Windows -- [How to Use Screen Snip to Take Screenshot](https://www.youtube.com/watch?v=O_55eg00H-w)
+* Mac -- [How to Take a Screenshot on Your Mac](https://www.youtube.com/watch?v=89GA6a4lAn4)
+* Chromebook -- [How To Take A Screenshot On A Chromebook](https://www.youtube.com/watch?v=sNGgxsj9E54)
+
 ## Advanced topics: The Command Line
 
 The terminal, command prompt, or shell are names for the text-only interface to your computer. It can accomplish anything you can with Windows Explorer or with Mac Finder, and more. We will learn more about the command line as the course progresses, but you can have a peek at it with these resources.
