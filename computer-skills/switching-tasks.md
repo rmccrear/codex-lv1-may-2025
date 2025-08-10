@@ -2,7 +2,7 @@
 
 We all multitask and so do our computers. But switching between tasks can slow you down and use up your cognitive energy. Learn these basic techniques to become a multitasking pro\!
 
-# Split Screen
+## Split Screen
 
 If you need to view two windows at the same time, but only have one screen, you may use a split screen to view them both.
 
@@ -15,9 +15,10 @@ Or
 
 1. Use the built in windows manager to arrange two or more windows on the same screen. (windows: [How to Arrange Windows and Multitask in Windows 11](https://youtu.be/iw8ExQKWwrk?feature=shared&t=92)) (mac [How to use window tiling on Mac | Apple Support](https://www.youtube.com/watch?v=U3KAmUYkkVc)) (chromebook [Chromebook: Tiling two horizontal screens](https://www.youtube.com/watch?v=t9tM5w7txC4))
 
-# 
+* [Split Screen & Snap Assist (5 min.)](https://www.youtube.com/watch?v=OrIYWWwIr-0)
 
-# Switching tabs
+
+## Switching tabs
 
 If you have two tabs next to each other, you can use hotkeys to switch between them.
 
@@ -30,7 +31,7 @@ If you have two tabs next to each other, you can use hotkeys to switch between t
 Short Video: [https://www.youtube.com/shorts/rEoyIE-YCAY](https://www.youtube.com/shorts/rEoyIE-YCAY)	
 Longer Video: [https://www.youtube.com/watch?v=qoUmZ-buqr8](https://www.youtube.com/watch?v=qoUmZ-buqr8)
 
-# Switching Applications
+## Switching Applications
 
 **Do this:**
 
@@ -40,7 +41,7 @@ Longer Video: [https://www.youtube.com/watch?v=qoUmZ-buqr8](https://www.youtube.
 Windows: [quickest way to switch between application windows on a computer](https://www.youtube.com/watch?v=RbjNN5xRQhA)  
 Mac: [https://www.youtube.com/shorts/a5mqvkCKtPA](https://www.youtube.com/shorts/a5mqvkCKtPA)	
 
-# Manage your Taskbar or Dock
+## Manage your Taskbar or Dock
 
 The Taskbar or Dock is the strip on the bottom of your screen that helps you manage your open programs. Learning how to use it will help you juggle between all the apps and windows open on your computer.
 
