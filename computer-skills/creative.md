@@ -6,7 +6,7 @@
 
 * [Online Paint Tool--No install needed.](https://pixlr.com/)
 * [PIXLR Tutorial - Designed for Beginners](https://www.youtube.com/watch?v=2xOCi_I5_Jc)
-* Specialized Design Method for Sprites and Games[Creating Pixel Art in Pixlr](https://www.youtube.com/watch?v=PvHkOr3hP8A)
+* Specialized Design Method for Sprites and Games: [Creating Pixel Art in Pixlr](https://www.youtube.com/watch?v=PvHkOr3hP8A)
 
 ### MS Paint (Windows)
 
