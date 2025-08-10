@@ -17,3 +17,5 @@ Bonus: A little video on OneDrive
 
 * [How Do I Store Files on My Computer and Not OneDrive?](https://www.youtube.com/watch?v=q_JmtT_4l3c)
 * [Why Is My Desktop in OneDrive?](https://www.youtube.com/watch?v=E5WPe6yUgNE)
+
+[Back to Skills](../00-computer-skills.md)
